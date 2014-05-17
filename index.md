@@ -9,16 +9,16 @@ tagline: Making Dayton Even Better!
   <div class="row">
     <div class="col-md-4">
       <h1><small>Make Decisions</small></h1> 
-      <a href="https://www.loomio.org/g/pSmCEJgt/ceos-for-dayton"><img src="{{ ASSET_PATH }}/assets/images/icon_33013_200x200.png" alt="Make group decisions using Loomio" class="img-responsive"></img></a>
+      <a href="https://www.loomio.org/g/pSmCEJgt/ceos-for-dayton"><img src="{{ BASE_PATH }}/assets/images/icon_33013_200x200.png" alt="Make group decisions using Loomio" class="img-responsive"></img></a>
     </div>
     <div class="col-md-4">
      <h1><small>Communicate</small></h1>
-     <a href="https://groups.google.com/forum/#!forum/ceos4dayton"><img src="{{ BASE_PATH }}assets/images/icon_9669_200x200.png" alt="Group communication using a Google Group" class="img-responsive"></img></a>
+     <a href="https://groups.google.com/forum/#!forum/ceos4dayton"><img src="{{ BASE_PATH }}/assets/images/icon_9669_200x200.png" alt="Group communication using a Google Group" class="img-responsive"></img></a>
 
    </div>
    <div class="col-md-4">
     <h1><small>Files</small></h1>
-    <a href="https://drive.google.com/a/fogmine.com/folderview?id=0BzpeAjdySNvSajNWZGd5U1dUeUk&usp=sharing"><img src="{{production_url}}/assets/images/icon_4567_200x200.png" alt="Share files using Google Drive" class="img-responsive"></img></a>
+    <a href="https://drive.google.com/a/fogmine.com/folderview?id=0BzpeAjdySNvSajNWZGd5U1dUeUk&usp=sharing"><img src="{{BASE_PATH}}/assets/images/icon_4567_200x200.png" alt="Share files using Google Drive" class="img-responsive"></img></a>
   </div>
 </div>
 </div>
